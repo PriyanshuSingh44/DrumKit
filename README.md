@@ -61,10 +61,14 @@ This is a fun and interactive Drum Kit web application that allows users to play
 
 ---
 
+## 🚀 Live Demo
+[![View App](https://img.shields.io/badge/Live%20App-Visit-blue?style=for-the-badge)](http://priyxanshu.me/DrumKit)
+
+---
+
 ## ✨ Author
 
 **Priyanshu Singh**  
 📧 priyanshusingh442000@gmail.com  
 🔗 [GitHub: PriyanshuSingh44](https://github.com/PriyanshuSingh44)
 
----
